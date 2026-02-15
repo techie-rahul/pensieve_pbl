@@ -1,0 +1,104 @@
+[
+    {
+        "id": "intolerance_of_uncertainty",
+        "name": "Intolerance of Uncertainty",
+        "citation": "Carleton (2012)",
+        "description": "A tendency to react negatively to uncertain situations, often manifesting as excessive worry about the unknown.",
+        "keywords": [
+            "uncertainty",
+            "worry",
+            "control",
+            "what if",
+            "anxious",
+            "unknown",
+            "predict",
+            "unsure",
+            "doubt",
+            "fear"
+        ],
+        "insightTemplate": "Across your entries, words related to uncertainty appeared in {hitCount} out of {totalEntries} entries. This repeated focus may resemble what psychology calls 'Intolerance of Uncertainty' (Carleton, 2012) — a tendency to find uncertain situations particularly stressful.",
+        "whyExplanation": "This insight was generated because the following keywords appeared repeatedly across multiple journal entries: {matchedKeywords}. The frequency of these words ({frequency}) suggests a recurring theme of uncertainty in your reflections."
+    },
+    {
+        "id": "self_compassion",
+        "name": "Self-Compassion",
+        "citation": "Neff (2003)",
+        "description": "The practice of treating oneself with kindness and understanding during difficult times, rather than harsh self-judgment.",
+        "keywords": [
+            "self-blame",
+            "harsh",
+            "not enough",
+            "failure",
+            "worthless",
+            "stupid",
+            "hate myself",
+            "disappointed",
+            "guilty",
+            "shame",
+            "inadequate"
+        ],
+        "insightTemplate": "Across your entries, words related to self-criticism appeared in {hitCount} out of {totalEntries} entries. This pattern may connect to what Dr. Kristin Neff calls 'Self-Compassion' (Neff, 2003) — specifically, the absence of it, where harsh self-judgment replaces self-kindness.",
+        "whyExplanation": "This insight was generated because the following keywords appeared repeatedly across multiple journal entries: {matchedKeywords}. The frequency of these words ({frequency}) suggests a pattern of self-critical language in your writing."
+    },
+    {
+        "id": "growth_mindset",
+        "name": "Growth Mindset",
+        "citation": "Dweck (2006)",
+        "description": "The belief that abilities and intelligence can be developed through effort, learning, and persistence.",
+        "keywords": [
+            "improve",
+            "learn",
+            "grow",
+            "future",
+            "better",
+            "progress",
+            "develop",
+            "effort",
+            "practice",
+            "potential",
+            "change"
+        ],
+        "insightTemplate": "Across your entries, words related to growth and learning appeared in {hitCount} out of {totalEntries} entries. This may reflect what Carol Dweck describes as a 'Growth Mindset' (Dweck, 2006) — a belief that your abilities can be developed through dedication.",
+        "whyExplanation": "This insight was generated because the following keywords appeared repeatedly across multiple journal entries: {matchedKeywords}. The frequency of these words ({frequency}) suggests an orientation toward learning and self-improvement in your reflections."
+    },
+    {
+        "id": "rumination",
+        "name": "Rumination",
+        "citation": "Nolen-Hoeksema (1991)",
+        "description": "A pattern of repeatedly thinking about the causes, consequences, and symptoms of negative feelings without taking action to address them.",
+        "keywords": [
+            "keep thinking",
+            "can't stop",
+            "over and over",
+            "why did",
+            "replay",
+            "regret",
+            "obsess",
+            "stuck",
+            "loop",
+            "dwelling"
+        ],
+        "insightTemplate": "Across your entries, words related to repetitive thinking appeared in {hitCount} out of {totalEntries} entries. This pattern may align with what psychologist Susan Nolen-Hoeksema describes as 'Rumination' (1991) — a cycle of dwelling on negative thoughts.",
+        "whyExplanation": "This insight was generated because the following keywords appeared repeatedly across multiple journal entries: {matchedKeywords}. The frequency of these words ({frequency}) suggests a recurring theme of repetitive, cyclical thinking in your reflections."
+    },
+    {
+        "id": "gratitude_orientation",
+        "name": "Gratitude Orientation",
+        "citation": "Emmons & McCullough (2003)",
+        "description": "A general tendency to recognize and respond with grateful emotion to the roles of other people's benevolence.",
+        "keywords": [
+            "grateful",
+            "thankful",
+            "appreciate",
+            "blessed",
+            "lucky",
+            "fortune",
+            "kind",
+            "generous",
+            "gift",
+            "thanks"
+        ],
+        "insightTemplate": "Across your entries, words related to gratitude appeared in {hitCount} out of {totalEntries} entries. This pattern may reflect what Emmons & McCullough call 'Gratitude Orientation' (2003) — a tendency to notice and appreciate positive aspects of life.",
+        "whyExplanation": "This insight was generated because the following keywords appeared repeatedly across multiple journal entries: {matchedKeywords}. The frequency of these words ({frequency}) suggests a recurring theme of appreciation and thankfulness in your reflections."
+    }
+]
